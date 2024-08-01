@@ -2,4 +2,4 @@
 
 ![SFALogo](/35314597.png)
 
-Beta V0.5
+Beta V0.6.1
